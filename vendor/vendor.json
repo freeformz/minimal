@@ -1,3 +1,6 @@
 {
-    "rootPath": "github.com/freeformz/minimal"
+    "rootPath": "github.com/freeformz/minimal",
+    "heroku": {
+        "sync": false
+    }
 }
